@@ -1,0 +1,37 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="poc-jersey:war exploded">
+    <output-path>$PROJECT_DIR$/poc-jax-rs/poc-jersey/target/poc-jersey</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="poc-jersey/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="poc-jersey" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: com.sun.jersey:jersey-servlet:1.18" />
+          <element id="library" level="project" name="Maven: com.sun.jersey:jersey-server:1.18" />
+          <element id="library" level="project" name="Maven: asm:asm:3.1" />
+          <element id="library" level="project" name="Maven: com.sun.jersey:jersey-core:1.18" />
+          <element id="library" level="project" name="Maven: com.sun.jersey.contribs:jersey-spring:1.18" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-core:2.5.6" />
+          <element id="library" level="project" name="Maven: commons-logging:commons-logging:1.1.1" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-beans:2.5.6" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-context:2.5.6" />
+          <element id="library" level="project" name="Maven: aopalliance:aopalliance:1.0" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-web:2.5.6" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-aop:2.5.6" />
+          <element id="library" level="project" name="Maven: com.sun.jersey:jersey-json:1.18" />
+          <element id="library" level="project" name="Maven: org.codehaus.jackson:jackson-jaxrs:1.6.4" />
+          <element id="library" level="project" name="Maven: org.codehaus.jackson:jackson-xc:1.9.2" />
+          <element id="archive" name="service-0.0.1-SNAPSHOT.jar">
+            <element id="module-output" name="service" />
+          </element>
+          <element id="library" level="project" name="Maven: javax.ws.rs:jsr311-api:1.1.1" />
+          <element id="library" level="project" name="Maven: org.codehaus.jackson:jackson-core-asl:1.6.4" />
+          <element id="library" level="project" name="Maven: org.codehaus.jackson:jackson-mapper-asl:1.6.4" />
+          <element id="library" level="project" name="Maven: com.google.appengine:appengine-api-1.0-sdk:1.8.8" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

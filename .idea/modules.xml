@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/poc-jax-rs/poc-cxf/poc-cxf.iml" filepath="$PROJECT_DIR$/poc-jax-rs/poc-cxf/poc-cxf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/poc-jax-rs/poc-jax-rs.iml" filepath="$PROJECT_DIR$/poc-jax-rs/poc-jax-rs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/poc-jax-rs/poc-jersey/poc-jersey.iml" filepath="$PROJECT_DIR$/poc-jax-rs/poc-jersey/poc-jersey.iml" />
+      <module fileurl="file://$PROJECT_DIR$/poc-rest.iml" filepath="$PROJECT_DIR$/poc-rest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/poc-jax-rs/poc-resteasy/poc-resteasy.iml" filepath="$PROJECT_DIR$/poc-jax-rs/poc-resteasy/poc-resteasy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/poc-jax-rs/poc-restlet/poc-restlet.iml" filepath="$PROJECT_DIR$/poc-jax-rs/poc-restlet/poc-restlet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service/service.iml" filepath="$PROJECT_DIR$/service/service.iml" />
+    </modules>
+  </component>
+</project>
+

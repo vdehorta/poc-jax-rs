@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="poc-jersey:war">
+    <output-path>$PROJECT_DIR$/poc-jax-rs/poc-jersey/target</output-path>
+    <root id="archive" name="poc-jersey.war">
+      <element id="artifact" artifact-name="poc-jersey:war exploded" />
+    </root>
+  </artifact>
+</component>

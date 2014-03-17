@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="poc-resteasy:war">
+    <output-path>$PROJECT_DIR$/poc-jax-rs/poc-resteasy/target</output-path>
+    <root id="archive" name="poc-resteasy.war">
+      <element id="artifact" artifact-name="poc-resteasy:war exploded" />
+    </root>
+  </artifact>
+</component>

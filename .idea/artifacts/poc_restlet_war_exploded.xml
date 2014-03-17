@@ -1,0 +1,42 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="poc-restlet:war exploded">
+    <output-path>$PROJECT_DIR$/poc-jax-rs/poc-restlet/target/poc-restlet</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="poc-restlet/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="poc-restlet" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: org.restlet.jee:org.restlet.ext.jaxrs:2.0.5" />
+          <element id="library" level="project" name="Maven: javax.activation:activation:1.1.1" />
+          <element id="library" level="project" name="Maven: commons-fileupload:commons-fileupload:1.2.1" />
+          <element id="library" level="project" name="Maven: javax.mail:mail:1.4.2" />
+          <element id="library" level="project" name="Maven: javax.ws.rs:jsr311-api:1.0" />
+          <element id="library" level="project" name="Maven: javax.servlet:servlet-api:2.5" />
+          <element id="library" level="project" name="Maven: org.restlet.jee:org.restlet:2.0.5" />
+          <element id="library" level="project" name="Maven: org.osgi:org.osgi.core:4.0.0" />
+          <element id="library" level="project" name="Maven: org.restlet.jee:org.restlet.ext.spring:2.0.5" />
+          <element id="library" level="project" name="Maven: cglib:cglib-nodep:2.2" />
+          <element id="library" level="project" name="Maven: commons-logging:commons-logging:1.1.1" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-asm:3.0.1.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-beans:3.0.1.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-core:3.0.1.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-context:3.0.1.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-aop:3.0.1.RELEASE" />
+          <element id="library" level="project" name="Maven: aopalliance:aopalliance:1.0" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-expression:3.0.1.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-web:3.0.1.RELEASE" />
+          <element id="library" level="project" name="Maven: org.restlet.jee:org.restlet.ext.servlet:2.0.5" />
+          <element id="archive" name="service-0.0.1-SNAPSHOT.jar">
+            <element id="module-output" name="service" />
+          </element>
+          <element id="library" level="project" name="Maven: org.codehaus.jackson:jackson-jaxrs:1.6.4" />
+          <element id="library" level="project" name="Maven: org.codehaus.jackson:jackson-core-asl:1.6.4" />
+          <element id="library" level="project" name="Maven: org.codehaus.jackson:jackson-mapper-asl:1.6.4" />
+          <element id="library" level="project" name="Maven: com.google.appengine:appengine-api-1.0-sdk:1.8.8" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
